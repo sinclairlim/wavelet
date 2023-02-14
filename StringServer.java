@@ -20,6 +20,7 @@ class Handler implements URLHandler {
         } else {
             return "404 Not Found!";
         }
+        return "404 Not Found!";    
     }
 }
 
